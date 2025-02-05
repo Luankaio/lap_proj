@@ -27,7 +27,6 @@ Este projeto é uma API em Django para gerenciar livros e autores, apresentando:
 
 - Python 3.9+  
 - PostgreSQL  
-- Instalar as dependências via `requirements.txt`.
 
 ## Como Executar (Local)
 
